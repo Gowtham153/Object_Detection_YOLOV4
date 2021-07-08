@@ -21,7 +21,7 @@ C:\Users\gowth\AppData\Local\Programs\Python\Python37\Scripts
 ```
 ###
 
-### Windows Terminal using Pip
+### Installing all the requirements using pip
 
 ```bash
 # TensorFlow CPU
