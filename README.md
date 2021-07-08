@@ -3,7 +3,7 @@
 
 YOLOv4 Implemented in Tensorflow 2.0. 
 Convert YOLO v4 .weights to .pb, .tflite format for tensorflow, tensorflow lite.
-<p align="center"><img src="data/helpers/demo.gif"\></p>
+
 
 ## Getting Started
 Inorder to run this code we need python 3.7, pip, nvidia cuda 10.1, cudnn 7.5. After installing each of these packages add these paths to the environment system variables, this will help to run using windows terminal.
