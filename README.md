@@ -8,9 +8,18 @@ Convert YOLO v4, YOLOv3, YOLO tiny .weights to .pb, .tflite and trt format for t
 ## Getting Started
 Inorder to run this code we need python 3.7, pip, nvidia cuda 10.1, cudnn 7.5. After installing each of these packages add these paths to the environment system variables, this will help to run using windows terminal.
 ### Installing pip
+```
+https://phoenixnap.com/kb/install-pip-windows
+```
 ### Installing Nvidia Cuda
+```
 https://developer.nvidia.com/cuda-10.1-download-archive-update2
+```
 ### Installing Nvidia Cudnn
+You have to signup/login inorder to download, which is free for everyone.
+```
+https://developer.nvidia.com/rdp/cudnn-archive
+```
 ### Setting up python path to run the code using windows terminal
 ```
 C:\Users\gowth\AppData\Local\Programs\Python\Python37
