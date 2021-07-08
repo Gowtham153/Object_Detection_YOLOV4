@@ -11,7 +11,7 @@ Inorder to run this code we need python 3.7, pip, nvidia cuda 10.1, cudnn 7.5. A
 ### Installing Nvidia Cuda
 https://developer.nvidia.com/cuda-10.1-download-archive-update2
 ### Installing Nvidia Cudnn
-### Setting up python path to run in windows terminal
+### Setting up python path to run the code using windows terminal
 ```
 C:\Users\gowth\AppData\Local\Programs\Python\Python37
 ```
