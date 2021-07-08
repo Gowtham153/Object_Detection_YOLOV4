@@ -90,17 +90,7 @@ You can find the output image or video in the Detections folder.
 | YoloV4 FPS  |    22    |
 
 
-## Traning your own model in TensorFlow
-```bash
-# Prepare your dataset
-# If you want to train from scratch:
-In config.py set FIRST_STAGE_EPOCHS=0 
-# Run script:
-python train.py
 
-# Transfer learning: 
-python train.py --weights ./data/yolov4.weights
-```
 The training performance is not fully reproduced yet, so I recommended to use Alex's [Darknet](https://github.com/AlexeyAB/darknet) to train your own data, then convert the .weights to tensorflow or tflite.
 
 
