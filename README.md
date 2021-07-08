@@ -95,7 +95,7 @@ python benchmarks.py --size 416 --model yolov4 --weights ./data/yolov4.weights
 ```bash
 # Prepare your dataset
 # If you want to train from scratch:
-In config.py set FISRT_STAGE_EPOCHS=0 
+In config.py set FIRST_STAGE_EPOCHS=0 
 # Run script:
 python train.py
 
