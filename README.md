@@ -76,7 +76,9 @@ python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yol
 python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --video 0 --output ./detections/results.avi
 ```
 
+### Result Image/Video
 
+You can find the output image or video in the Detections folder.
 
 
 ## Benchmark
