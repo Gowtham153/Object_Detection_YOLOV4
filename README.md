@@ -81,10 +81,6 @@ python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yol
 You can find the output image or video in the Detections folder.
 
 
-## Benchmark
-```bash
-python benchmarks.py --size 416 --model yolov4 --weights ./data/yolov4.weights
-```
 
 
 #### Nvidia 1660 Ti (intel CORE i7 9th Gen)
