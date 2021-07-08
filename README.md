@@ -8,6 +8,7 @@ Convert YOLO v4 .weights to .pb, .tflite format for tensorflow, tensorflow lite.
 ## Getting Started
 Inorder to run this code we need python 3.7, pip, nvidia cuda 10.1, cudnn 7.5. After installing each of these packages add these paths to the environment system variables, this will help to run using windows terminal.
 ### Installing pip
+Follow this link to install pip on windows
 ```
 https://phoenixnap.com/kb/install-pip-windows
 ```
